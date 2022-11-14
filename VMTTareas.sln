@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VMTTareas", "VMTTareas\VMTTareas.csproj", "{190B7B27-1C0E-486D-8EDF-187EB7413AD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VMTTareas.DTOS", "VMTTareas.DTOS\VMTTareas.DTOS.csproj", "{905C8362-E73F-4643-880B-4E406C97AAE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{190B7B27-1C0E-486D-8EDF-187EB7413AD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{190B7B27-1C0E-486D-8EDF-187EB7413AD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{190B7B27-1C0E-486D-8EDF-187EB7413AD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{190B7B27-1C0E-486D-8EDF-187EB7413AD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{905C8362-E73F-4643-880B-4E406C97AAE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{905C8362-E73F-4643-880B-4E406C97AAE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{905C8362-E73F-4643-880B-4E406C97AAE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{905C8362-E73F-4643-880B-4E406C97AAE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A33736EA-58D8-41B6-83E3-65E601FA7F39}
+	EndGlobalSection
+EndGlobal
